@@ -1,1 +1,1 @@
-# injury-tracking-system
+# Injury Tracking System

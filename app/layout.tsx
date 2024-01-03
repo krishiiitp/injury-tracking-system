@@ -1,4 +1,4 @@
-import {Oswald} from 'next/font/google'
+import {Exo_2, Oswald, Roboto_Condensed} from 'next/font/google'
 import './globals.css'
 const inter = Oswald({ subsets: ['latin'] })
 export const metadata = {
